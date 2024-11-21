@@ -1,0 +1,4 @@
+repository "TrendyMe - A Night Out@AreeshImran@cloud"
+  path "/"
+    br "/main"
+    co "/main"
